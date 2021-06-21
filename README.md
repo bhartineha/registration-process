@@ -8,4 +8,4 @@ Steps:
 Following url you can access it
 Client URL : http://localhost:3000/
 
-Note:  Api was not provided, therefore, I am just listing out all the data into the table.
+Note: I am just listing out all the data into the table.
